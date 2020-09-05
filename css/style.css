@@ -1,5 +1,6 @@
 /* Animation */
 
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -30,7 +31,7 @@ body {
 #main_body {
     position: absolute;
     left: 0;
-    top: 40%;
+    top: 50%;
     padding: 0;
     width: 100%;
     text-align: center;
@@ -40,4 +41,16 @@ body {
     width: 10vw;
     height: 20vh;
     border-radius: 50%;
+}
+
+.body_class a {
+    font-size: 1.3rem;
+    padding: 10px;
+}
+
+.body_class a:hover {
+    font-size: 1.2rem;
+    color: white;
+    cursor: pointer;
+    transition: 0.4s;
 }
