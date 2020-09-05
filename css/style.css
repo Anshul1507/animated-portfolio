@@ -30,8 +30,14 @@ body {
 #main_body {
     position: absolute;
     left: 0;
-    top: 50%;
+    top: 40%;
     padding: 0;
     width: 100%;
     text-align: center;
+}
+
+.body_class img {
+    width: 10vw;
+    height: 20vh;
+    border-radius: 50%;
 }
