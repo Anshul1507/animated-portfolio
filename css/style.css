@@ -39,7 +39,6 @@ body {
 
 .body_class img {
     width: 10vw;
-    /*height: 20vh;removed by aditi208*/
     border-radius: 50%;
 }
 
@@ -61,7 +60,6 @@ body {
 @media screen and (max-width: 768px) {
     .body_class img {
         width: 30%;
-       /* height: 15vh; removed by aditi208*/
         border-radius: 50%;
     }
     .body_class a {
@@ -73,7 +71,6 @@ body {
 @media screen and (max-width: 1024px) {
     .body_class img {
         width: 25%;
-      /*  height: 15vh; removed by aditi208*/ 
         border-radius: 50%;
     }
     .body_class a {
