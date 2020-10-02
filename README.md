@@ -4,10 +4,10 @@
 
 ### Features
 
-📙 Simple UI Design\
-📙 One Page Website\
-📙 Styled with Space animations\
-📙 Simple in editing\
+📙 Simple UI Design.
+📙 One Page Website.
+📙 Styled with Space animations.
+📙 Simple in editing.
 
 To view a demo example, [Click Here](http://anshul1507.tech/animated-portfolio/) <p>
 To view a another demo example, [Click Here](http://anshul1507.tech/simple-portfolio/)
@@ -20,8 +20,7 @@ To view a another demo example, [Click Here](http://anshul1507.tech/simple-portf
  OR 
 ```
 # Clone this repository
-$ git clone https://github.com/anshul1507/animated-portfolio
-
+$ git clone https://github.com/Anshul1507/animated-portfolio.git
 # Go into the repository 
 $ cd animated-portfolio
 
