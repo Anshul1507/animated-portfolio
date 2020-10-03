@@ -1,5 +1,7 @@
 ## Animated Portfolio 🌐 ![GitHub stars](https://img.shields.io/github/stars/anshul1507/animated-portfolio) ![GitHub forks](https://img.shields.io/github/forks/anshul1507/animated-portfolio)
 
+#### _Read this in [Portuguese-(BR)](translations/README.pt_br.md)._
+
 ### A Sample Portfolio template for Developers!
 
 ### Features
@@ -13,16 +15,18 @@ To view a demo example, [Click Here](http://anshul1507.tech/animated-portfolio/)
 To view a another demo example, [Click Here](http://anshul1507.tech/simple-portfolio/)
 
 ---
+
 ### Getting Started 🚀
 
-```Anyone can use it by fork, clone and edit its content in index.html file.```
+`Anyone can use it by fork, clone and edit its content in index.html file.`
 
- OR 
+OR
+
 ```
 # Clone this repository
 $ git clone https://github.com/Anshul1507/animated-portfolio.git
 
-# Go into the repository 
+# Go into the repository
 $ cd animated-portfolio
 
 # Remove current origin repository
@@ -30,4 +34,5 @@ $ git remote remove origin
 ```
 
 ---
-#### Shape with ❤ by @Anshul1507. 
+
+#### Shape with ❤ by @Anshul1507.
